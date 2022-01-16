@@ -14,7 +14,7 @@ def getPyFiles(directory):
             if itemNamePath.endswith('.py') and itemNamePath != __file__:
                 fileList.append(itemNamePath)
         else:
-            print("Item " + itemNamePath + " is neither a file nor a directory, skipping it.",
+            print("Item " + itemNamePath + " is neither a file or a directory, skipping it.",
                   file=sys.stderr, flush=True)
     return fileList
 
