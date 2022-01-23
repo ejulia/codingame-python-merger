@@ -2,11 +2,10 @@
 
 <!--- For more shields, check https://shields.io --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/ejulia/codingame-python-merger?style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/ejulia/codingame-python-merger?style=flat)
-![GitHub license](https://img.shields.io/github/license/ejulia/codingame-python-merger?style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/ejulia/codingame-python-merger)
+![GitHub](https://img.shields.io/github/license/ejulia/codingame-python-merger)
 ![GitHub stars](https://img.shields.io/github/stars/ejulia/codingame-python-merger?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ejulia/codingame-python-merger?style=social)
-
+![GitHub forks](https://img.shields.io/github/forks/ejulia/codingame-python-merger?label=Fork&style=social)
 
 codingame-python-merger is a tool that allows the [Codingame](https://www.codingame.com/home) players to organize their Python code into multiple files. It is best used with the [Codingame Sync app and extension](https://www.codingame.com/forum/t/codingame-sync-beta/614) to push automatically your code to the plateform's editor.
 
