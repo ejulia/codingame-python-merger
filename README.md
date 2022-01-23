@@ -14,7 +14,7 @@ During the CodinGame AI competitions, the bot code can become quite big for a si
 Have fun!
 
 
-## Prerequesites
+## Prerequisites
 
 Before you begin, ensure that Python 2+ is installed and running on your machine.
 
