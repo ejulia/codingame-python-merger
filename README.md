@@ -22,18 +22,18 @@ Before you begin, ensure that Python 2+ is installed and running on your machine
 ## Installing codingame-python-merger
 
 * Just clone this project on your computer, and start coding your bot!
-* If you want to use the [CodinGame Sync App](https://www.codingame.com/forum/t/codingame-sync-beta/614), the file to sync with is **merge.py** (not *merger.py*).
+* If you want to use the [CodinGame Sync App](https://www.codingame.com/forum/t/codingame-sync-beta/614), the file to sync with is `merge.py` (not `merger.py`).
 
 
 ## Using codingame-python-merger
 
-* Only the code written in the main/ directory will be appended to the merge.py file.
-* In the main/ directory, you can organize your code in as many sub-directories as you wish.
-* Only the *\*.py* files will be merged, links (either symbolic or real) and files with another or no extension will be ignored.
-* The **main.py** file is appended last to the **merge.py** file, hence that is where your main code should be written.
-* When you are ready, execute the **merger.py** script. It will automatically merge all the appropriate files in the **merge.py** file. Library imports are managed during the process. If you are using the [CodinGame Sync App](https://www.codingame.com/forum/t/codingame-sync-beta/614), your code should be automatically pushed to the CodinGame online editor once when the merge is complete.
+* Only the code written in the `main/` directory will be appended to the `merge.py` file.
+* In the `main/` directory, you can organize your code in as many sub-directories as you wish.
+* Only the `*.py` files will be merged, links (either symbolic or real) and files with another or no extension will be ignored.
+* The `main.py` file is appended last to the `merge.py` file, hence that is where your main code should be written.
+* When you are ready, execute the `merger.py` script. It will automatically merge all the appropriate files in the `merge.py` file. Library imports are managed during the process. If you are using the [CodinGame Sync App](https://www.codingame.com/forum/t/codingame-sync-beta/614), your code should be automatically pushed to the CodinGame online editor once when the merge is complete.
 
-* If you want to unit-test your code, use the **test/** directory. The code there won't be appended to the merge.py file.
+* If you want to unit-test your code, use the `test/` directory. The code there won't be appended to the merge.py file.
 
 
 ## Contributing to codingame-python-merger
