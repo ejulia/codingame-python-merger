@@ -7,7 +7,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/ejulia/codingame-python-merger?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ejulia/codingame-python-merger?label=Fork&style=social)
 
-codingame-python-merger is a tool that allows the [CodinGame](https://www.codingame.com/home) players to organize their Python code into multiple files. It is best used with the [CodinGame Sync app and extension](https://www.codingame.com/forum/t/codingame-sync-beta/614) to push your code automatically to the plateform's editor.
+> ℹ️ codingame-python-merger is a tool that allows the [CodinGame](https://www.codingame.com/home) players to organize their Python code into multiple files. It is best used with the [CodinGame Sync app and extension](https://www.codingame.com/forum/t/codingame-sync-beta/614) to push your code automatically to the plateform's editor.
 
 During the CodinGame AI competitions, the bot code can become quite big for a single file. This project lets you organize your Python code into multiple files, and automatically merge these into a single file that you can either copy or push to the CodinGame online editor.
 
