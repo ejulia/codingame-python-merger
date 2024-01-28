@@ -48,7 +48,7 @@ To contribute to codingame-python-merger, please refer to the GitHub documentati
 
 ## Contact
 
-If you want to contact me you can reach me at emmanuel.julia@ik.me.
+If you want to contact me you can reach me at emmanuel.julia[at]ik.me.
 
 
 ## License
